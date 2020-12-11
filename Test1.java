@@ -7,6 +7,7 @@ public class Test1 {
 	
 	public static void main (String [] args) {
 		System.out.println("Hello from Test1!");
+		System.out.println("Hello from Test1 from abranch!");
 		
 		int a = 5;
 		final int b;
